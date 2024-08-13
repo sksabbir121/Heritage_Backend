@@ -5,28 +5,28 @@ This project is a Real Estate Property Bidding System built using PHP and the La
 
 Table of Contents
 
-# Features
-# Installation
-# Usage
-# User Registration and Authentication
-# Property Management
-# Bidding Process
-# Displaying the Highest Bid
-# Database Structure
-# Routes
-# Models
-# Controllers
-# Views
-# License
+*Features
+*Installation
+*Usage
+*User Registration and Authentication
+*Property Management
+*Bidding Process
+*Displaying the Highest Bid
+*Database Structure
+*Routes
+*Models
+*Controllers
+*Views
+*License
 
 Features
 
-# User registration and authentication
-# Admin can create, update, and delete properties
-# Users can place bids on properties
-# Display the highest bid for each property
-# Secure bidding process with validation
-# Responsive design using Bootstrap
+*User registration and authentication
+*Admin can create, update, and delete properties
+*Users can place bids on properties
+*Display the highest bid for each property
+*Secure bidding process with validation
+*Responsive design using Bootstrap
 
 
 Installation:
