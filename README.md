@@ -35,7 +35,7 @@ Features
 Installation:
 
   1. Clone the Repository:
-     git clone https://github.com/yourusername/real-estate-bidding.git
+     git clone https:https://github.com/sksabbir121/Heritage_Backend/tree/master
      cd real-estate-bidding
 
   2. Install Dependencies:
