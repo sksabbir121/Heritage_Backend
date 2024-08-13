@@ -36,7 +36,7 @@ Installation:
 
   1. Clone the Repository:
      git clone https:https://github.com/sksabbir121/Heritage_Backend/tree/master
-     cd real-estate-bidding
+     cd rproject
 
   2. Install Dependencies:
      composer install
