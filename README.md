@@ -97,22 +97,22 @@ Route::post('/properties/{id}/bid', [BidController::class, 'placeBid'])->middlew
 Models
 
 *The primary models in this application are:
-    User: Represents the users of the system.
-    Property: Represents the properties listed by the admin.
-    Bid: Represents the bids placed by users on properties.
+    1. User: Represents the users of the system.
+    2. Property: Represents the properties listed by the admin.
+    3. Bid: Represents the bids placed by users on properties.
 
 Controllers
 
 *Key controllers include:
-    PropertyController: Manages the CRUD operations for properties.
-    BidController: Handles the bidding process and validation.
+    1. PropertyController: Manages the CRUD operations for properties.
+    2. BidController: Handles the bidding process and validation.
 
 Views
 
 *The views include:
-    auth: Contains registration and login forms.
-    properties: Displays property listings and details.
-    bids: Displays the bidding interface and highest bid.
+    1. auth: Contains registration and login forms.
+    2. properties: Displays property listings and details.
+    3. bids: Displays the bidding interface and highest bid.
 
 
 
