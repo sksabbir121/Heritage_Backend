@@ -3,6 +3,7 @@
 This project is a Real Estate Property Bidding System built using PHP and the Laravel framework. It allows users to register, sign in, and bid on properties listed by an admin. The system displays the highest bid for each property, and the highest bidder wins the property.
 
 
+
 Table of Contents
 
 *Features
@@ -18,6 +19,8 @@ Table of Contents
 *Controllers
 *Views
 *License
+
+
 
 Features
 
